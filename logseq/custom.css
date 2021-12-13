@@ -13,7 +13,7 @@
 :root {
   --ct-text-size: 15px;
   --ct-line-height: 1.6;
-  --ls-font-family: "Only Emoji", "MonoLisa", "Font Awesome 6 Pro", "Font Awesome 6 Brands";
+  --ls-font-family: "Only Emoji", "MonoLisa";
   --ct-page-title-font-family: var(--ls-font-family);
   --ct-code-font-family: "MonoLisa";
 }
