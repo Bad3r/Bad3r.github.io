@@ -4,8 +4,8 @@
 
 @font-face {
 
-    font-family: 'MonoLisa';
-    src: url("./fonts/MonoLisa-Regular.ttfs") ("truetype");
+    font-family: 'Test';
+    src: url("./fonts/MonoLisa-Regular.ttf") ("truetype");
     font-weight: normal;
     font-style: normal;
 }
