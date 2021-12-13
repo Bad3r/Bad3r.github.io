@@ -1,20 +1,20 @@
 /* Set theme to logseq Dev theme */
 @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");
 
-/*
+
 @font-face {
-    font-family: 'Test';
+    font-family: 'TsT';
     src: url("./fonts/MonoLisa-Regular.ttf") ("truetype");
     font-weight: normal;
     font-style: normal;
 }
-*/
+
 
 :root {
   --ct-text-size: 15px;
   --ct-line-height: 1.6;
-  --ls-font-family: "Only Emoji", "MonoLisa";
+  --ls-font-family: "Only Emoji", "TsT";
   --ct-page-title-font-family: var(--ls-font-family);
-  --ct-code-font-family: "MonoLisa";
+  --ct-code-font-family: "TsT";
 }
 
