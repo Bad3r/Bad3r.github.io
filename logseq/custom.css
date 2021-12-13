@@ -3,8 +3,8 @@
 
 
 @font-face {
-    font-family: 'TsT';
-    src: url("./fonts/MonoLisa-Regular.ttf") ("truetype");
+    font-family: "TsT";
+    src: url("./fonts/MonoLisa-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
